@@ -1,1 +1,12 @@
 # Operating-Platforms
+The Gaming Room project involved creating a multi-platform, networked gaming application for a client who wanted to digitize their trivia game, “Draw It or Lose It.” Their goal was to host a consistent experience across Android, iOS, and web platforms, allowing multiple users to join and interact in real time. The client emphasized scalability, security, and code reuse as key aspects of the system.
+
+While developing the documentation, I took particular pride in defining the system architecture and component responsibilities with clarity. I provided detailed analysis of software requirements, identified potential risks, and laid out platform-specific considerations in a way that facilitated future development. My ability to align design decisions with technical constraints and user needs helped create a solid design foundation.
+
+The process of working through a detailed design document was incredibly useful in preparing for implementation. It encouraged me to think through dependencies, constraints, and logic flow before writing any code. That preemptive planning helped identify gaps and reduced the need for major refactoring later in development.
+
+If I could revise one part of the documentation, I would refine the use case scenarios to include more edge cases. Expanding those would help anticipate user behavior more effectively and improve exception handling strategies. It would also strengthen the testing framework by offering more thorough coverage.
+
+Understanding the client’s target users and their needs played a key role in how I shaped the system. I considered usability, device compatibility, and performance under concurrent user loads. Designing from the user’s perspective ensured that the features we prioritized—like live game session management and clean UI transitions—would truly enhance the experience. Incorporating user needs is essential; it keeps the project grounded in real-world value and ensures adoption.
+
+My design approach was rooted in object-oriented principles and iterative refinement. I used class diagrams and architectural layering to abstract responsibilities and isolate changes. Going forward, I’d like to integrate prototyping into the early stages, perhaps using mock interfaces to validate assumptions before locking in features. I also plan to lean more on collaboration tools and user feedback loops throughout the design lifecycle to keep evolving the system with confidence.
